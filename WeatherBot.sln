@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WeatherBot", "WeatherBot\WeatherBot.pyproj", "{7A35C441-63E5-4A0B-A06C-F175A5F8A9D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A35C441-63E5-4A0B-A06C-F175A5F8A9D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A35C441-63E5-4A0B-A06C-F175A5F8A9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70DA6192-7366-4BF6-94FA-C464399F10E8}
+	EndGlobalSection
+EndGlobal
